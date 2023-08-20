@@ -1,0 +1,7 @@
+USER=SYSTEM, SYS 
+
+PW=Gummiged1234
+
+ADM PW til ny loacal ORCL DB
+
+21.8.2019

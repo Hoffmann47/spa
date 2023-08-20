@@ -1,0 +1,31 @@
+
+
+Jægersborg 9.5.2023
+
+Erfaren BI-profil med flair for formidling og arkitektur
+Jeg har 16 års bred BI-erfaring fra Kriminalforsorgen, Københavns Universitet og senest Uni-Tel A/S. Jeg taler flydende SQL og er hjemmevant i skyen. 
+
+Jeg har erfaringer med hele BI-værdikæden fra kildesystemer til den færdige rapport i Power BI. Det, der giver mig energi, er at få fastlagt målene, tegnet arkitekturen og dernæst få hands-on i koden. Seneste gik jeg den vej med telefirmaet Uni-Tel A/S, hvor jeg indsamlede behov og udarbejdede arkitekturen sammen med den tekniske direktør. Herefter brugte jeg Azure Data Factory til at overføre data til en SQL-server, hvor jeg masserede data i stored procedures og præsenterede dem i Power BI. 
+
+Hos Københavns Universitet og Kriminalforsorgen har jeg haft fingrene i ETL-processen på flere forretningsområder, modelleret, skrevet SQL og optimeret udtræk. Jeg har masser af erfaringer med både dårlige designs og projekter der lykkedes! 
+
+I Kriminalforsorgen var jeg ansvarlig for BI-løsningen, hvilket også indebar kommunikation og formidling af viden til andre andre kontorer - og ikke mindst undervisningen af nyansatte i Kriminalforsorgen. Den funktion savner jeg i dag. 
+
+Hos jer vil jeg bl.a. kunne 
+
+være en god formidler 
+tale med kunderne, forstå deres behov og bidrage til at lave en løsning. 
+ankomme med en TOGAF-certificering 
+indgå i dialogen om den rette arkitektur og værktøjer i jeres nye platform
+være med på holdet som en udvikler der både modellerer og skriver kode 
+levere hands-on-erfaringer i produkter som Power BI og Azure Data Factory
+
+Jeg søger jobbet fordi et job med opgaver, hvor der både grubles, formidles og kodes er lige mig!
+
+Endelig beskriver I en arbejdsplads med godt humør og mulighed for hjemmearbejde - det er attraktivt! 
+
+Jeg er 47 år, gift og bor i Jægersborg med vores datter på 12 år. Jeg interesserer mig for krimier, natur og mad/vin.  
+
+Mvh. 
+
+Christian Hoffmann
